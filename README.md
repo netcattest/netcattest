@@ -1,7 +1,7 @@
 <h1 align="center">NetCatTest</h1>
 
 <div align="center">
-  <img src="https://netcattest.com/netcat.svg" height="120" alt="NetCatTest logo" />
+  <img src="https://netcattest.com/netcat2.php" height="140" alt="NetCatTest logo" />
 </div>
 
 ###
