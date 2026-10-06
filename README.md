@@ -40,9 +40,10 @@
 <a href="https://www.linkedin.com/in/daniel-felipe-netcattest/"><img src="https://netcattest.com/assets/images/svg/assets/btn-linkedin.svg" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/netcat_test/"><img src="https://netcattest.com/assets/images/svg/assets/btn-instagram.svg" alt="Instagram" /></a>
 
-</div>
+<br/><br/>
 
-<details>
-<summary><code>▓▓▓▓▓▓ ./.flag</code></summary>
-TkNUe3lvdXR1YmUuY29tL0BuZXRjYXR0ZXN0fQ==
-</details>
+<a href="https://netcattest.com/catsuite">
+  <img src="https://netcattest.com/assets/images/svg/catsuite-16x9.svg" width="100%" alt="CatSuite — conheça o aplicativo" />
+</a>
+
+</div>
